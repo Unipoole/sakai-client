@@ -17,8 +17,8 @@
         Note that the source control name must be the same as the artifact name
     -->
     <scm>
-        <connection>scm:git:https://github.com/Unipoole/sakai-client/tree/master</connection>
-        <developerConnection>scm:git:https://github.com/Unipoole/sakai-client/tree/master</developerConnection>
+        <connection>scm:git:https://github.com/Unipoole/sakai-client.git</connection>
+        <developerConnection>scm:git:https://github.com/Unipoole/sakai-client.git</developerConnection>
         <url>https://github.com/Unipoole/sakai-client</url>
     </scm>
     <properties>
